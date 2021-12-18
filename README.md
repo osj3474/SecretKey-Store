@@ -1,6 +1,6 @@
 # SecretKey-Store
 
-<br /><br />
+<br />
 
 ## (1) git-secret
 
