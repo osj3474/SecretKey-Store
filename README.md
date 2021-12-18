@@ -1,3 +1,3 @@
-# Github-SecretKey-Store
+# SecretKey-Store
 
 - github secret 
