@@ -2,7 +2,7 @@
 
 <br /><br />
 
-### (1) git-secret
+## (1) git-secret
 
  : **파일을 암호화**해서 github에 올리는 방법입니다.
 
@@ -19,7 +19,9 @@ aws = 222
 
 ![image](https://user-images.githubusercontent.com/42775225/146629248-0641bd73-310c-4887-8368-384522509928.png)
 
-제일 중요한 사용법!
+<br />
+
+### 제일 중요한 사용법!
 
 1. 설치 (macOS 기준)
 
@@ -56,7 +58,7 @@ aws = 222
 
 6. push 하면 끝~!
 
-   
+<br />
 
 cf) 추적 중지
 
