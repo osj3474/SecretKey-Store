@@ -12,7 +12,7 @@ Github으로 버전관리를 할 때, **password나 aws키 같은 정보들을 �
 
 2. <a href="https://github.com/osj3474/SecretKey-Store/blob/main/GITHUB_ACTIONS.md" target="_blank">github actions</a>
 
-   : password정보를 Settings탭의 Secrets에 저장하고, Github Actions 스크립트로 **파일을 치환하는 방법**입니다.
+   : password정보를 Settings탭의 Secrets에 저장하고, 배포 시에 Github Actions 스크립트로 **파일을 치환하는 방법**입니다.
 
 
 
