@@ -90,3 +90,19 @@ spring:
 
    `${{ secrets.[변수명] }}`  부분이 Settings탭의 Secrets에 저장된 변수을 의미합니다.
 
+
+
+
+
+
+
+cf) `no main manifest attribute in` 에러 발생 시
+
+=> `[빌드명]-plain.jar` (의존성 제외한 jar) 로 인해 생기는 것으로, ***build.gradle*** 에 다음 추가하면, build 시에 `-plain.jar` 생성 안됨
+
+```yaml
+jar {
+    enabled = false
+}
+```
+
